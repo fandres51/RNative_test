@@ -17,10 +17,6 @@ Asegúrate de tener instalados los siguientes programas en tu máquina:
 
 Primero, clona el repositorio desde GitHub a tu máquina local. 
 
-```bash
-git clone https://github.com/fandres51/prueba-react-native.git
-```
-
 ### 2. Instalar las Dependencias
 
 Instala todas las dependencias necesarias del proyecto usando `npm`
